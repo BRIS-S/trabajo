@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://plus.unsplash.com/premium_photo-1675518474491-a8264226b389?q=80&w=2041&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ;
+    color: black;
+    text-align: center;
+  }
+
+
+p{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    margin: 0;
+}
+
+h1{
+    font-family: "Hind Siliguri", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+.t{
+    color: white;
+    text-shadow: 3px 3px black;
+    font-family: 'Pacifico', cursive;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 75px;
+}
+.uno{
+    color: white;
+    background-color: #2d3047e7;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 20px;
+    max-height: 250px;
+    max-width: 600px; 
+}
+.texto{
+    color: white;
+    text-shadow: 1.5px 1.5px black;
+    background-color: #2d3047e7;
+    margin: 5px auto;
+    border-radius: 10px;
+    padding: 5px;
+    max-height: 50px;
+    max-width: 500px; 
+}
